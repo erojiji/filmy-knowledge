@@ -1,0 +1,30 @@
+{
+  "ATTRIBUTION.md": {
+    "sha256": "413bbf0e5c9d5d6a7633544e2846b7834582639b07b0712d2d41ed6516cde97f",
+    "bytes": 742
+  },
+  "DATA_LICENSE.md": {
+    "sha256": "bb2ce3a5674f55c9422c10d7adf315d51776a852a958a06c829d0e45e5df9976",
+    "bytes": 656
+  },
+  "README.md": {
+    "sha256": "64e824abccef3e88ae3d00315e8c35878c98338260b4f313c17d4a8626307ec9",
+    "bytes": 1327
+  },
+  "examples/on_demand_swades.json": {
+    "sha256": "4caeccfbd457fb8c452199e3e770947b6be55e1fe5013b0201abacff39b2eced",
+    "bytes": 3220
+  },
+  "fixtures/films-0.1.0.json": {
+    "sha256": "bebbb92420958014bf944c2dd18621dfd3d7dc02c1232136c5a0bda00a14f7b5",
+    "bytes": 9561
+  },
+  "fixtures/schema-1.schema.json": {
+    "sha256": "2becba788f4b2d58f5faddbe526862f54c384c3bc73cf88270710855a9cf2fd1",
+    "bytes": 3643
+  },
+  "releases/0.1.0/public/films.json": {
+    "sha256": "5c88b298975da184e7aa2e6decbf37284b9424d3a2fbfda2398c7798ae12f9e8",
+    "bytes": 94878
+  }
+}

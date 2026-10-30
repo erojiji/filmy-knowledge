@@ -1,0 +1,3363 @@
+{
+  "schema_version": "1.0.0",
+  "release_version": "0.1.0",
+  "generated_at": "2026-10-30T07:30:00+05:30",
+  "film_count": 40,
+  "films": [
+    {
+      "id": "bombay-1995",
+      "title": "Bombay",
+      "year": 1995,
+      "languages": [
+        "Tamil",
+        "Hindi",
+        "Telugu"
+      ],
+      "runtime_minutes": 130,
+      "release_date": "1995-03-10",
+      "credits": {
+        "lead": [
+          {
+            "id": "arvind-swamy",
+            "name": "Arvind Swamy"
+          }
+        ],
+        "colead": [
+          {
+            "id": "manisha-koirala",
+            "name": "Manisha Koirala"
+          }
+        ],
+        "director": [
+          {
+            "id": "mani-ratnam",
+            "name": "Mani Ratnam"
+          }
+        ],
+        "producer": [
+          {
+            "id": "s-sriram",
+            "name": "S. Sriram"
+          },
+          {
+            "id": "mani-ratnam",
+            "name": "Mani Ratnam"
+          },
+          {
+            "id": "jhamu-sughand",
+            "name": "Jhamu Sughand"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "award": {
+          "value": "won",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://en.wikipedia.org/wiki/Bombay",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 2,
+          "count": 2,
+          "scoring_count": 1,
+          "classes": [
+            "filmfare_south",
+            "national_general"
+          ]
+        },
+        "verdict": {
+          "value": "blockbuster",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/bombay",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "BLOCKBUSTER"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null
+      },
+      "flags": [
+        "multi_language",
+        "dubbed_title"
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/c7dHdpv3D5RDlQg2qw9R7frKejN.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "tmdb": "26247",
+        "tollybo_id": "6632",
+        "tollybo_slug": "bombay",
+        "wikidata": "Q891821",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bombay"
+      }
+    },
+    {
+      "id": "agni-sakshi-1996",
+      "title": "Agni Sakshi",
+      "year": 1996,
+      "languages": [
+        "Hindi"
+      ],
+      "runtime_minutes": 142,
+      "release_date": "1996-03-15",
+      "credits": {
+        "lead": [
+          {
+            "id": "jackie-shroff",
+            "name": "Jackie Shroff"
+          }
+        ],
+        "colead": [
+          {
+            "id": "manisha-koirala",
+            "name": "Manisha Koirala"
+          }
+        ],
+        "director": [
+          {
+            "id": "partho-ghosh",
+            "name": "Partho Ghosh"
+          }
+        ],
+        "producer": [
+          {
+            "id": "bindumadhav-thackeray",
+            "name": "Bindumadhav Thackeray"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "financial_outcome": {
+          "value": "profit",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2817",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 2.3304,
+          "multiple_low": 2.3208,
+          "multiple_high": 2.3497,
+          "cost": 47500000.0,
+          "revenue": 110695000.0,
+          "method": "boi_share_plus_overseas_mid: India distributor share (BOI) + overseas gross at 50% (range 40–70%); ancillary=0; cost=BOI budget (assumed incl. P&A)."
+        },
+        "verdict": {
+          "value": "blockbuster",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2817",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "Blockbuster"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/lwTJDE3SCVHl4Sy9kDvPH6bZDS4.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "boi_movie_id": "2817",
+        "tmdb": "66292",
+        "wikidata": "Q4693205",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Agni_Sakshi"
+      }
+    },
+    {
+      "id": "akkada-ammayi-1996",
+      "title": "Akkada Ammayi Ikkada Abbayi",
+      "year": 1996,
+      "languages": [
+        "Telugu"
+      ],
+      "runtime_minutes": 150,
+      "release_date": "1996-10-11",
+      "credits": {
+        "lead": [
+          {
+            "id": "pawan-kalyan",
+            "name": "Pawan Kalyan"
+          }
+        ],
+        "colead": [
+          {
+            "id": "supriya-yarlagadda",
+            "name": "Supriya Yarlagadda"
+          }
+        ],
+        "director": [
+          {
+            "id": "e-v-v-satyanarayana",
+            "name": "E. V. V. Satyanarayana"
+          }
+        ],
+        "producer": [
+          {
+            "id": "allu-aravind",
+            "name": "Allu Aravind"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "verdict": {
+          "value": "average",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/akkada-ammayi-ikkada-abbayi",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "AVERAGE"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/dUAlQx0kuRykZAE5W5ZAsGQ0tgC.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "verified",
+      "review": "approved",
+      "external_ids": {
+        "tmdb": "115050",
+        "tollybo_id": "865",
+        "tollybo_slug": "akkada-ammayi-ikkada-abbayi",
+        "wikidata": "Q4701302",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Akkada_Ammayi_Ikkada_Abbayi"
+      }
+    },
+    {
+      "id": "dastak-1996",
+      "title": "Dastak",
+      "year": 1996,
+      "languages": [
+        "Hindi"
+      ],
+      "runtime_minutes": 135,
+      "release_date": "1996-11-29",
+      "credits": {
+        "lead": [
+          {
+            "id": "sushmita-sen",
+            "name": "Sushmita Sen"
+          }
+        ],
+        "colead": [
+          {
+            "id": "mukul-dev",
+            "name": "Mukul Dev"
+          }
+        ],
+        "director": [
+          {
+            "id": "mahesh-bhatt",
+            "name": "Mahesh Bhatt"
+          }
+        ],
+        "producer": [
+          {
+            "id": "mukesh-bhatt",
+            "name": "Mukesh Bhatt"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "financial_outcome": {
+          "value": "loss",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2733",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 0.3453,
+          "multiple_low": 0.3425,
+          "multiple_high": 0.3508,
+          "cost": 32500000.0,
+          "revenue": 11221875.0,
+          "method": "boi_share_plus_overseas_mid: India distributor share (BOI) + overseas gross at 50% (range 40–70%); ancillary=0; cost=BOI budget (assumed incl. P&A)."
+        },
+        "verdict": {
+          "value": "flop",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2733",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "Flop"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/3Nw9EqyRiZ8p2fpbNjFdpU3LIBx.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "boi_movie_id": "2733",
+        "tmdb": "458151",
+        "wikidata": "Q5226867",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dastak"
+      }
+    },
+    {
+      "id": "dharma-chakram-1996",
+      "title": "Dharma Chakram",
+      "year": 1996,
+      "languages": [
+        "Telugu"
+      ],
+      "runtime_minutes": 144,
+      "release_date": "1996-01-13",
+      "credits": {
+        "lead": [
+          {
+            "id": "venkatesh",
+            "name": "Venkatesh"
+          }
+        ],
+        "colead": [
+          {
+            "id": "ramya-krishna",
+            "name": "Ramya Krishna"
+          }
+        ],
+        "director": [
+          {
+            "id": "suresh-krissna",
+            "name": "Suresh Krissna"
+          }
+        ],
+        "producer": [
+          {
+            "id": "d-ramanaidu",
+            "name": "D. Ramanaidu"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "verdict": {
+          "value": "hit",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/dharma-chakram",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "HIT"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/puZefYDtNbqyqmgbSbILH8NZISA.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "verified",
+      "review": "approved",
+      "external_ids": {
+        "tmdb": "81053",
+        "tollybo_id": "867",
+        "tollybo_slug": "dharma-chakram",
+        "wikidata": "Q5269222",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dharma_Chakram"
+      }
+    },
+    {
+      "id": "diljale-1996",
+      "title": "Diljale",
+      "year": 1996,
+      "languages": [
+        "Hindi"
+      ],
+      "runtime_minutes": 185,
+      "release_date": "1996-09-20",
+      "credits": {
+        "lead": [
+          {
+            "id": "ajay-devgn",
+            "name": "Ajay Devgn"
+          }
+        ],
+        "colead": [
+          {
+            "id": "sonali-bendre",
+            "name": "Sonali Bendre"
+          }
+        ],
+        "director": [
+          {
+            "id": "harry-baweja",
+            "name": "Harry Baweja"
+          }
+        ],
+        "producer": [
+          {
+            "id": "paramjeet-baweja",
+            "name": "Paramjeet Baweja"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "financial_outcome": {
+          "value": "loss",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2756",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 0.9071,
+          "multiple_low": 0.9,
+          "multiple_high": 0.9214,
+          "cost": 55000000.0,
+          "revenue": 49891250.0,
+          "method": "boi_share_plus_overseas_mid: India distributor share (BOI) + overseas gross at 50% (range 40–70%); ancillary=0; cost=BOI budget (assumed incl. P&A)."
+        },
+        "verdict": {
+          "value": "semi_hit",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2756",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "Semi Hit"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [
+        "verdict_finance_conflict"
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/1D5yt3beDErVMl6rqccg4qsJfOc.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "boi_movie_id": "2756",
+        "tmdb": "243595",
+        "wikidata": "Q5276831",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Diljale"
+      }
+    },
+    {
+      "id": "ghatak-1996",
+      "title": "Ghatak: Lethal",
+      "year": 1996,
+      "languages": [
+        "Hindi"
+      ],
+      "runtime_minutes": 158,
+      "release_date": "1996-11-15",
+      "credits": {
+        "lead": [
+          {
+            "id": "sunny-deol",
+            "name": "Sunny Deol"
+          }
+        ],
+        "colead": [
+          {
+            "id": "meenakshi-seshadri",
+            "name": "Meenakshi Seshadri"
+          }
+        ],
+        "director": [
+          {
+            "id": "rajkumar-santoshi",
+            "name": "Rajkumar Santoshi"
+          }
+        ],
+        "producer": [
+          {
+            "id": "rajkumar-santoshi",
+            "name": "Rajkumar Santoshi"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "financial_outcome": {
+          "value": "profit",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2739",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 1.3893,
+          "multiple_low": 1.3807,
+          "multiple_high": 1.4065,
+          "cost": 62500000.0,
+          "revenue": 86831250.0,
+          "method": "boi_share_plus_overseas_mid: India distributor share (BOI) + overseas gross at 50% (range 40–70%); ancillary=0; cost=BOI budget (assumed incl. P&A)."
+        },
+        "verdict": {
+          "value": "super_hit",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2739",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "Super Hit"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/4lqlyxjMNMuQtu4VlXV0LrRx3tt.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "boi_movie_id": "2739",
+        "tmdb": "118632",
+        "wikidata": "Q11055371",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ghatak"
+      }
+    },
+    {
+      "id": "jeet-1996",
+      "title": "Jeet",
+      "year": 1996,
+      "languages": [
+        "Hindi"
+      ],
+      "runtime_minutes": 164,
+      "release_date": "1996-08-23",
+      "credits": {
+        "lead": [
+          {
+            "id": "sunny-deol",
+            "name": "Sunny Deol"
+          }
+        ],
+        "colead": [
+          {
+            "id": "karisma-kapoor",
+            "name": "Karisma Kapoor"
+          }
+        ],
+        "director": [
+          {
+            "id": "raj-kanwar",
+            "name": "Raj Kanwar"
+          }
+        ],
+        "producer": [
+          {
+            "id": "sajid-nadiadwala",
+            "name": "Sajid Nadiadwala"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "financial_outcome": {
+          "value": "profit",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2769",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 1.3932,
+          "multiple_low": 1.3772,
+          "multiple_high": 1.4253,
+          "cost": 72500000.0,
+          "revenue": 101009375.0,
+          "method": "boi_share_plus_overseas_mid: India distributor share (BOI) + overseas gross at 50% (range 40–70%); ancillary=0; cost=BOI budget (assumed incl. P&A)."
+        },
+        "verdict": {
+          "value": "super_hit",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2769",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "Super Hit"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/ze2pWJLL9KTS4zeFzEjLe7jAqnh.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "boi_movie_id": "2769",
+        "tmdb": "141613",
+        "wikidata": "Q493089",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jeet"
+      }
+    },
+    {
+      "id": "khamoshi-1996",
+      "title": "Khamoshi: The Musical",
+      "year": 1996,
+      "languages": [
+        "Hindi"
+      ],
+      "runtime_minutes": 160,
+      "release_date": "1996-08-09",
+      "credits": {
+        "lead": [
+          {
+            "id": "nana-patekar",
+            "name": "Nana Patekar"
+          }
+        ],
+        "colead": [
+          {
+            "id": "manisha-koirala",
+            "name": "Manisha Koirala"
+          }
+        ],
+        "director": [
+          {
+            "id": "sanjay-leela-bhansali",
+            "name": "Sanjay Leela Bhansali"
+          }
+        ],
+        "producer": [
+          {
+            "id": "sibte-hassan-rizvi",
+            "name": "Sibte Hassan Rizvi"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "financial_outcome": {
+          "value": "loss",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2772",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 0.8147,
+          "multiple_low": 0.77,
+          "multiple_high": 0.9041,
+          "cost": 60000000.0,
+          "revenue": 48881250.0,
+          "method": "boi_share_plus_overseas_mid: India distributor share (BOI) + overseas gross at 50% (range 40–70%); ancillary=0; cost=BOI budget (assumed incl. P&A)."
+        },
+        "verdict": {
+          "value": "flop",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2772",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "Flop"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/lhOkmrXgbk3U8vZkd5bkynmvdyT.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "boi_movie_id": "2772",
+        "tmdb": "97449",
+        "wikidata": "Q1740519",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Khamoshi"
+      }
+    },
+    {
+      "id": "khiladiyon-ka-khiladi-1996",
+      "title": "Khiladiyon Ka Khiladi",
+      "year": 1996,
+      "languages": [
+        "Hindi"
+      ],
+      "runtime_minutes": 192,
+      "release_date": "1996-06-14",
+      "credits": {
+        "lead": [
+          {
+            "id": "akshay-kumar",
+            "name": "Akshay Kumar"
+          }
+        ],
+        "colead": [
+          {
+            "id": "raveena-tandon",
+            "name": "Raveena Tandon"
+          }
+        ],
+        "director": [
+          {
+            "id": "umesh-mehra",
+            "name": "Umesh Mehra"
+          }
+        ],
+        "producer": [
+          {
+            "id": "keshu-ramsay",
+            "name": "Keshu Ramsay"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "financial_outcome": {
+          "value": "profit",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2793",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 1.2744,
+          "multiple_low": 1.2636,
+          "multiple_high": 1.2962,
+          "cost": 67500000.0,
+          "revenue": 86025000.0,
+          "method": "boi_share_plus_overseas_mid: India distributor share (BOI) + overseas gross at 50% (range 40–70%); ancillary=0; cost=BOI budget (assumed incl. P&A)."
+        },
+        "verdict": {
+          "value": "super_hit",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2793",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "Super Hit"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/wFVvumuCAUovx7ZJTrZitqks7NO.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "boi_movie_id": "2793",
+        "tmdb": "230454",
+        "wikidata": "Q1740639",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Khiladiyon_Ka_Khiladi"
+      }
+    },
+    {
+      "id": "little-soldiers-1996",
+      "title": "Little Soldiers",
+      "year": 1996,
+      "languages": [
+        "Telugu"
+      ],
+      "runtime_minutes": null,
+      "release_date": "1996-02-02",
+      "credits": {
+        "lead": [
+          {
+            "id": "kavya",
+            "name": "Kavya"
+          }
+        ],
+        "colead": [
+          {
+            "id": "baladitya",
+            "name": "Baladitya"
+          }
+        ],
+        "director": [
+          {
+            "id": "gunnam-gangaraju",
+            "name": "Gunnam Gangaraju"
+          }
+        ],
+        "producer": [
+          {
+            "id": "gunnam-gangaraju",
+            "name": "Gunnam Gangaraju"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "verdict": {
+          "value": "average",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/little-soldiers",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "ABOVE_AVERAGE"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/oSdmyi5qagVwcdWPJXSZQvgbfCh.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "verified",
+      "review": "approved",
+      "external_ids": {
+        "tmdb": "411862",
+        "tollybo_id": "869",
+        "tollybo_slug": "little-soldiers",
+        "wikidata": "Q6651990",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Little_Soldiers"
+      }
+    },
+    {
+      "id": "maachis-1996",
+      "title": "Maachis",
+      "year": 1996,
+      "languages": [
+        "Hindi"
+      ],
+      "runtime_minutes": 168,
+      "release_date": "1996-10-25",
+      "credits": {
+        "lead": [
+          {
+            "id": "chandrachur-singh",
+            "name": "Chandrachur Singh"
+          }
+        ],
+        "colead": [
+          {
+            "id": "tabu",
+            "name": "Tabu"
+          }
+        ],
+        "director": [
+          {
+            "id": "gulzar",
+            "name": "Gulzar"
+          }
+        ],
+        "producer": [
+          {
+            "id": "r-v-pandit",
+            "name": "R. V. Pandit"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "financial_outcome": {
+          "value": "loss",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2742",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 0.9195,
+          "multiple_low": 0.9186,
+          "multiple_high": 0.9213,
+          "cost": 20000000.0,
+          "revenue": 18390625.0,
+          "method": "boi_share_plus_overseas_mid: India distributor share (BOI) + overseas gross at 50% (range 40–70%); ancillary=0; cost=BOI budget (assumed incl. P&A)."
+        },
+        "verdict": {
+          "value": "average",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2742",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "Average"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/xHUizFQrGHOzazLZLIFcaHCVFzP.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "boi_movie_id": "2742",
+        "tmdb": "21460",
+        "wikidata": "Q6720983",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Maachis"
+      }
+    },
+    {
+      "id": "ninne-pelladatha-1996",
+      "title": "Ninne Pelladatha",
+      "year": 1996,
+      "languages": [
+        "Telugu"
+      ],
+      "runtime_minutes": 146,
+      "release_date": "1996-10-04",
+      "credits": {
+        "lead": [
+          {
+            "id": "nagarjuna",
+            "name": "Nagarjuna"
+          }
+        ],
+        "colead": [
+          {
+            "id": "tabu",
+            "name": "Tabu"
+          }
+        ],
+        "director": [
+          {
+            "id": "krishna-vamsi",
+            "name": "Krishna Vamsi"
+          }
+        ],
+        "producer": [
+          {
+            "id": "nagarjuna",
+            "name": "Nagarjuna"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "award": {
+          "value": "won",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://en.wikipedia.org/wiki/Ninne_Pelladatha",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 5,
+          "count": 5,
+          "scoring_count": 2,
+          "classes": [
+            "filmfare_south",
+            "nandi",
+            "national_regional"
+          ]
+        },
+        "verdict": {
+          "value": "blockbuster",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/ninne-pelladatha",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "BLOCKBUSTER"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/vyqjVNfmpcqSmaR6twCJ8b6wu7i.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "tmdb": "137455",
+        "tollybo_id": "883",
+        "tollybo_slug": "ninne-pelladatha",
+        "wikidata": "Q13001145",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ninne_Pelladatha"
+      }
+    },
+    {
+      "id": "pavithra-bandham-1996",
+      "title": "Pavithra Bandham",
+      "year": 1996,
+      "languages": [
+        "Telugu"
+      ],
+      "runtime_minutes": 147,
+      "release_date": "1996-10-17",
+      "credits": {
+        "lead": [
+          {
+            "id": "venkatesh",
+            "name": "Venkatesh"
+          }
+        ],
+        "colead": [
+          {
+            "id": "soundarya",
+            "name": "Soundarya"
+          }
+        ],
+        "director": [
+          {
+            "id": "muthyala-subbaiah",
+            "name": "Muthyala Subbaiah"
+          }
+        ],
+        "producer": [
+          {
+            "id": "c-venkataraju",
+            "name": "C. Venkataraju"
+          },
+          {
+            "id": "g-sivaraju",
+            "name": "G. Sivaraju"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "verdict": {
+          "value": "hit",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/pavithra-bandham",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "HIT"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/v17uB7Zq5Sj5qPXFvtrEV00uesN.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "verified",
+      "review": "approved",
+      "external_ids": {
+        "tmdb": "279477",
+        "tollybo_id": "879",
+        "tollybo_slug": "pavithra-bandham",
+        "wikidata": "Q4254248",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Pavithra_Bandham"
+      }
+    },
+    {
+      "id": "pelli-sandadi-1996",
+      "title": "Pelli Sandadi",
+      "year": 1996,
+      "languages": [
+        "Telugu"
+      ],
+      "runtime_minutes": 129,
+      "release_date": "1996-01-12",
+      "credits": {
+        "lead": [
+          {
+            "id": "srikanth",
+            "name": "Srikanth"
+          }
+        ],
+        "colead": [
+          {
+            "id": "ravali",
+            "name": "Ravali"
+          }
+        ],
+        "director": [
+          {
+            "id": "k-raghavendra-rao",
+            "name": "K. Raghavendra Rao"
+          }
+        ],
+        "producer": [
+          {
+            "id": "c-aswani-dutt",
+            "name": "C. Aswani Dutt"
+          },
+          {
+            "id": "allu-aravind",
+            "name": "Allu Aravind"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "verdict": {
+          "value": "blockbuster",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/pelli-sandadi",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "BLOCKBUSTER"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/tz0P2cC7NYndh3YcFtA0u4nBgkb.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "verified",
+      "review": "approved",
+      "external_ids": {
+        "tmdb": "322265",
+        "tollybo_id": "866",
+        "tollybo_slug": "pelli-sandadi",
+        "wikidata": "Q13002940",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Pelli_Sandadi"
+      }
+    },
+    {
+      "id": "prema-desam-1996",
+      "title": "Prema Desam",
+      "year": 1996,
+      "languages": [
+        "Telugu"
+      ],
+      "runtime_minutes": 158,
+      "release_date": "1996-08-23",
+      "credits": {
+        "lead": [
+          {
+            "id": "vineeth",
+            "name": "Vineeth"
+          },
+          {
+            "id": "abbas",
+            "name": "Abbas"
+          }
+        ],
+        "colead": [
+          {
+            "id": "tabu",
+            "name": "Tabu"
+          }
+        ],
+        "director": [
+          {
+            "id": "kathir",
+            "name": "Kathir"
+          }
+        ],
+        "producer": [
+          {
+            "id": "k-t-kunjumon",
+            "name": "K. T. Kunjumon"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "award": {
+          "value": "won",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://en.wikipedia.org/wiki/Kadhal_Desam",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 2,
+          "count": 2,
+          "scoring_count": 0,
+          "classes": [
+            "filmfare_south",
+            "optional"
+          ]
+        },
+        "verdict": {
+          "value": "average",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/kadhal-desam",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "AVERAGE"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null
+      },
+      "flags": [
+        "dubbed_title"
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/iS9OGIPUchnJhivkuRygeO6V1S1.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "tmdb": "12258",
+        "tollybo_id": "4296",
+        "tollybo_slug": "kadhal-desam",
+        "wikidata": "Q3465283",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kadhal_Desam"
+      }
+    },
+    {
+      "id": "raja-hindustani-1996",
+      "title": "Raja Hindustani",
+      "year": 1996,
+      "languages": [
+        "Hindi"
+      ],
+      "runtime_minutes": 177,
+      "release_date": "1996-11-15",
+      "credits": {
+        "lead": [
+          {
+            "id": "aamir-khan",
+            "name": "Aamir Khan"
+          }
+        ],
+        "colead": [
+          {
+            "id": "karisma-kapoor",
+            "name": "Karisma Kapoor"
+          }
+        ],
+        "director": [
+          {
+            "id": "dharmesh-darshan",
+            "name": "Dharmesh Darshan"
+          }
+        ],
+        "producer": [
+          {
+            "id": "ali-morani",
+            "name": "Ali Morani"
+          },
+          {
+            "id": "karim-morani",
+            "name": "Karim Morani"
+          },
+          {
+            "id": "bunty-soorma",
+            "name": "Bunty Soorma"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "award": {
+          "value": "won",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://en.wikipedia.org/wiki/Raja_Hindustani",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "count": 4,
+          "scoring_count": 4,
+          "classes": [
+            "filmfare_hindi"
+          ]
+        },
+        "financial_outcome": {
+          "value": "profit",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2737",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 5.068,
+          "multiple_low": 5.0245,
+          "multiple_high": 5.1551,
+          "cost": 57500000.0,
+          "revenue": 291412500.0,
+          "method": "boi_share_plus_overseas_mid: India distributor share (BOI) + overseas gross at 50% (range 40–70%); ancillary=0; cost=BOI budget (assumed incl. P&A)."
+        },
+        "verdict": {
+          "value": "blockbuster",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2737",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "All Time Blockbuster"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/m4Uy3dHYmnYgvZ0U2xK5alazBFR.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "boi_movie_id": "2737",
+        "tmdb": "21566",
+        "wikidata": "Q2698933",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Raja_Hindustani"
+      }
+    },
+    {
+      "id": "ramudochadu-1996",
+      "title": "Ramudochadu",
+      "year": 1996,
+      "languages": [
+        "Telugu"
+      ],
+      "runtime_minutes": 147,
+      "release_date": "1996-04-25",
+      "credits": {
+        "lead": [
+          {
+            "id": "nagarjuna",
+            "name": "Nagarjuna"
+          }
+        ],
+        "colead": [
+          {
+            "id": "soundarya",
+            "name": "Soundarya"
+          }
+        ],
+        "director": [
+          {
+            "id": "a-kodandarami-reddy",
+            "name": "A. Kodandarami Reddy"
+          }
+        ],
+        "producer": [
+          {
+            "id": "yarlagadda-surendra",
+            "name": "Yarlagadda Surendra"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "verdict": {
+          "value": "disaster",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/ramudochadu",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "DISASTER"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/cAlnpF3cjF0Nua1yVWCbfgtsizS.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "verified",
+      "review": "approved",
+      "external_ids": {
+        "tmdb": "577823",
+        "tollybo_id": "6110",
+        "tollybo_slug": "ramudochadu",
+        "wikidata": "Q18209500",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ramudochadu"
+      }
+    },
+    {
+      "id": "saajan-chale-sasural-1996",
+      "title": "Saajan Chale Sasural",
+      "year": 1996,
+      "languages": [
+        "Hindi"
+      ],
+      "runtime_minutes": 134,
+      "release_date": "1996-04-12",
+      "credits": {
+        "lead": [
+          {
+            "id": "govinda",
+            "name": "Govinda"
+          }
+        ],
+        "colead": [
+          {
+            "id": "tabu",
+            "name": "Tabu"
+          }
+        ],
+        "director": [
+          {
+            "id": "david-dhawan",
+            "name": "David Dhawan"
+          }
+        ],
+        "producer": [
+          {
+            "id": "mansoor-siddiqui",
+            "name": "Mansoor Siddiqui"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "financial_outcome": {
+          "value": "profit",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2807",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 1.8834,
+          "multiple_low": 1.877,
+          "multiple_high": 1.8963,
+          "cost": 42500000.0,
+          "revenue": 80045000.0,
+          "method": "boi_share_plus_overseas_mid: India distributor share (BOI) + overseas gross at 50% (range 40–70%); ancillary=0; cost=BOI budget (assumed incl. P&A)."
+        },
+        "verdict": {
+          "value": "super_hit",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=2807",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "Super Hit"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/hv9ro0IWbhqyTkSLxGU4aaQBamK.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "boi_movie_id": "2807",
+        "tmdb": "166871",
+        "wikidata": "Q3460429",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Saajan_Chale_Sasural"
+      }
+    },
+    {
+      "id": "swades-2004",
+      "title": "Swades",
+      "year": 2004,
+      "languages": [
+        "Hindi"
+      ],
+      "runtime_minutes": 195,
+      "release_date": "2004-12-17",
+      "credits": {
+        "lead": [
+          {
+            "id": "shah-rukh-khan",
+            "name": "Shah Rukh Khan"
+          }
+        ],
+        "colead": [
+          {
+            "id": "gayatri-joshi",
+            "name": "Gayatri Joshi"
+          }
+        ],
+        "director": [
+          {
+            "id": "ashutosh-gowariker",
+            "name": "Ashutosh Gowariker"
+          }
+        ],
+        "producer": [
+          {
+            "id": "ashutosh-gowariker",
+            "name": "Ashutosh Gowariker"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "award": {
+          "value": "won",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://en.wikipedia.org/wiki/Swades",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "count": 4,
+          "scoring_count": 1,
+          "classes": [
+            "filmfare_hindi",
+            "technical"
+          ]
+        },
+        "critics": {
+          "value": "acclaimed",
+          "confidence": "provisional",
+          "review": "approved",
+          "source_url": "https://en.wikipedia.org/wiki/Swades",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1
+        },
+        "cult": {
+          "value": true,
+          "confidence": "provisional",
+          "review": "approved",
+          "source_url": "https://en.wikipedia.org/wiki/Swades",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1
+        },
+        "financial_outcome": {
+          "value": "loss",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=460",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 0.5842,
+          "multiple_low": 0.5342,
+          "multiple_high": 0.6842,
+          "cost": 220000000.0,
+          "revenue": 128525000.0,
+          "method": "boi_share_plus_overseas_mid: India distributor share (BOI) + overseas gross at 50% (range 40–70%); ancillary=0; cost=BOI budget (assumed incl. P&A). Sensitivity: at 100% overseas the multiple is 0.83; gross ÷ budget is 1.57, which is not the trade multiple."
+        },
+        "verdict": {
+          "value": "flop",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=460",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "Flop"
+        },
+        "hyped": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/yUSL24kpHc9Nls4Pohia4shgcIM.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "boi_movie_id": "460",
+        "tmdb": "15774",
+        "wikidata": "Q1759650",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Swades"
+      }
+    },
+    {
+      "id": "12th-fail-2023",
+      "title": "12th Fail",
+      "year": 2023,
+      "languages": [
+        "Hindi"
+      ],
+      "runtime_minutes": 146,
+      "release_date": "2023-10-27",
+      "credits": {
+        "lead": [
+          {
+            "id": "vikrant-massey",
+            "name": "Vikrant Massey"
+          }
+        ],
+        "colead": [
+          {
+            "id": "medha-shankr",
+            "name": "Medha Shankr"
+          }
+        ],
+        "director": [
+          {
+            "id": "vidhu-vinod-chopra",
+            "name": "Vidhu Vinod Chopra"
+          }
+        ],
+        "producer": [
+          {
+            "id": "vidhu-vinod-chopra",
+            "name": "Vidhu Vinod Chopra"
+          },
+          {
+            "id": "yogesh-ishwar",
+            "name": "Yogesh Ishwar"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "award": {
+          "value": "won",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://en.wikipedia.org/wiki/12th_Fail",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "count": 4,
+          "scoring_count": 4,
+          "classes": [
+            "filmfare_hindi",
+            "national_general"
+          ]
+        },
+        "financial_outcome": {
+          "value": "profit",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://en.wikipedia.org/wiki/12th_Fail",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 2.2018,
+          "multiple_low": 2.0433,
+          "multiple_high": 2.3777,
+          "cost": 200000000.0,
+          "revenue": 440350000.0,
+          "method": "estimated_distributor_share: India distributor share estimated at 75% of India net (range 70–80%); overseas at 50% of gross (40–70%); ancillary=0; cost from Sacnilk/Wikipedia."
+        },
+        "verdict": {
+          "value": "super_hit",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.sacnilk.com/movie/12th_Fail_2023",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "SUPERHIT"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/u7BeOSx3bkXkFNlMg8Ik5h5Jpl8.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "tmdb": "1163258",
+        "wikidata": "Q122921105",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/12th_Fail"
+      }
+    },
+    {
+      "id": "adipurush-2023",
+      "title": "Adipurush",
+      "year": 2023,
+      "languages": [
+        "Hindi",
+        "Telugu"
+      ],
+      "runtime_minutes": 179,
+      "release_date": "2023-06-16",
+      "credits": {
+        "lead": [
+          {
+            "id": "prabhas",
+            "name": "Prabhas"
+          }
+        ],
+        "colead": [
+          {
+            "id": "kriti-sanon",
+            "name": "Kriti Sanon"
+          }
+        ],
+        "director": [
+          {
+            "id": "om-raut",
+            "name": "Om Raut"
+          }
+        ],
+        "producer": [
+          {
+            "id": "bhushan-kumar",
+            "name": "Bhushan Kumar"
+          },
+          {
+            "id": "krishan-kumar",
+            "name": "Krishan Kumar"
+          },
+          {
+            "id": "vamsi",
+            "name": "Vamsi"
+          },
+          {
+            "id": "pramod",
+            "name": "Pramod"
+          },
+          {
+            "id": "om-raut",
+            "name": "Om Raut"
+          },
+          {
+            "id": "prasad-sutar",
+            "name": "Prasad Sutar"
+          },
+          {
+            "id": "rajesh-nair",
+            "name": "Rajesh Nair"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "critics": {
+          "value": "negative",
+          "confidence": "provisional",
+          "review": "approved",
+          "source_url": "https://en.wikipedia.org/wiki/Adipurush",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1
+        },
+        "financial_outcome": {
+          "value": "loss",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.sacnilk.com/movie/Adipurush_2022",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 0.4822,
+          "multiple_low": 0.4434,
+          "multiple_high": 0.531,
+          "cost": 5000000000.0,
+          "revenue": 2411125000.0,
+          "method": "estimated_distributor_share: India distributor share estimated at 75% of India net (range 70–80%); overseas at 50% of gross (40–70%); ancillary=0; cost from Sacnilk/Wikipedia."
+        },
+        "hyped": {
+          "value": true,
+          "confidence": "provisional",
+          "review": "approved",
+          "source_url": "https://t2online.in/screen/bollywood/propped-up-by-hype-and-advance-bookings-adipurush-earns-rs-140-crore-worldwide-on-day-one/465804",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1
+        },
+        "verdict": {
+          "value": "flop",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.sacnilk.com/movie/Adipurush_2022",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "FLOP"
+        },
+        "cult": null,
+        "award": null
+      },
+      "flags": [
+        "hyped_flop",
+        "multi_language"
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "tmdb": "734253",
+        "wikidata": "Q105605280",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Adipurush"
+      }
+    },
+    {
+      "id": "animal-2023",
+      "title": "Animal",
+      "year": 2023,
+      "languages": [
+        "Hindi",
+        "Telugu"
+      ],
+      "runtime_minutes": 204,
+      "release_date": "2023-12-01",
+      "credits": {
+        "lead": [
+          {
+            "id": "ranbir-kapoor",
+            "name": "Ranbir Kapoor"
+          }
+        ],
+        "colead": [
+          {
+            "id": "rashmika-mandanna",
+            "name": "Rashmika Mandanna"
+          }
+        ],
+        "director": [
+          {
+            "id": "sandeep-reddy-vanga",
+            "name": "Sandeep Reddy Vanga"
+          }
+        ],
+        "producer": [
+          {
+            "id": "bhushan-kumar",
+            "name": "Bhushan Kumar"
+          },
+          {
+            "id": "krishan-kumar",
+            "name": "Krishan Kumar"
+          },
+          {
+            "id": "murad-khetani",
+            "name": "Murad Khetani"
+          },
+          {
+            "id": "pranay-reddy-vanga",
+            "name": "Pranay Reddy Vanga"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "award": {
+          "value": "won",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://en.wikipedia.org/wiki/Animal",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "count": 1,
+          "scoring_count": 1,
+          "classes": [
+            "filmfare_hindi"
+          ]
+        },
+        "financial_outcome": {
+          "value": "profit",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.sacnilk.com/movie/Animal_2022",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 2.7145,
+          "multiple_low": 2.4485,
+          "multiple_high": 3.108,
+          "cost": 2000000000.0,
+          "revenue": 5429025000.0,
+          "method": "estimated_distributor_share: India distributor share estimated at 75% of India net (range 70–80%); overseas at 50% of gross (40–70%); ancillary=0; cost from Sacnilk/Wikipedia."
+        },
+        "verdict": {
+          "value": "blockbuster",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.sacnilk.com/movie/Animal_2022",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "ALL TIME BLOCKBUSTER"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null
+      },
+      "flags": [
+        "multi_language"
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "tmdb": "781732",
+        "wikidata": "Q115947372",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Animal"
+      }
+    },
+    {
+      "id": "baby-2023",
+      "title": "Baby",
+      "year": 2023,
+      "languages": [
+        "Telugu"
+      ],
+      "runtime_minutes": 175,
+      "release_date": "2023-07-13",
+      "credits": {
+        "lead": [
+          {
+            "id": "vaishnavi-chaitanya",
+            "name": "Vaishnavi Chaitanya"
+          }
+        ],
+        "colead": [
+          {
+            "id": "anand-deverakonda",
+            "name": "Anand Deverakonda"
+          }
+        ],
+        "director": [
+          {
+            "id": "sai-rajesh-neelam",
+            "name": "Sai Rajesh Neelam"
+          }
+        ],
+        "producer": [
+          {
+            "id": "sreenivasa-kumar-naidu",
+            "name": "Sreenivasa Kumar Naidu"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "verdict": {
+          "value": "blockbuster",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/baby",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "BLOCKBUSTER"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/cr74IPXOmqEgJMZ0yRppIuQvyqU.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "verified",
+      "review": "approved",
+      "external_ids": {
+        "tmdb": "894730",
+        "tollybo_id": "2817",
+        "tollybo_slug": "baby",
+        "wikidata": "Q120653125",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Baby"
+      }
+    },
+    {
+      "id": "balagam-2023",
+      "title": "Balagam",
+      "year": 2023,
+      "languages": [
+        "Telugu"
+      ],
+      "runtime_minutes": 129,
+      "release_date": "2023-03-03",
+      "credits": {
+        "lead": [
+          {
+            "id": "priyadarshi",
+            "name": "Priyadarshi"
+          }
+        ],
+        "colead": [
+          {
+            "id": "kavya-kalyanram",
+            "name": "Kavya Kalyanram"
+          }
+        ],
+        "director": [
+          {
+            "id": "venu-yeldandi",
+            "name": "Venu Yeldandi"
+          }
+        ],
+        "producer": [
+          {
+            "id": "harshith-reddy",
+            "name": "Harshith Reddy"
+          },
+          {
+            "id": "hanshitha-reddy",
+            "name": "Hanshitha Reddy"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "award": {
+          "value": "won",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://en.wikipedia.org/wiki/Balagam",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 2,
+          "count": 2,
+          "scoring_count": 0,
+          "classes": [
+            "filmfare_south"
+          ]
+        },
+        "verdict": {
+          "value": "blockbuster",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/balagam",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "BLOCKBUSTER"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/rXXeLvBofDhHsDMUaTnPtOyv4q6.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "tmdb": "1092632",
+        "tollybo_id": "2744",
+        "tollybo_slug": "balagam",
+        "wikidata": "Q116965297",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Balagam"
+      }
+    },
+    {
+      "id": "bhagavanth-kesari-2023",
+      "title": "Bhagavanth Kesari",
+      "year": 2023,
+      "languages": [
+        "Telugu"
+      ],
+      "runtime_minutes": 163,
+      "release_date": "2023-10-19",
+      "credits": {
+        "lead": [
+          {
+            "id": "nandamuri-balakrishna",
+            "name": "Nandamuri Balakrishna"
+          }
+        ],
+        "colead": [
+          {
+            "id": "sreeleela",
+            "name": "Sreeleela"
+          }
+        ],
+        "director": [
+          {
+            "id": "anil-ravipudi",
+            "name": "Anil Ravipudi"
+          }
+        ],
+        "producer": [
+          {
+            "id": "sahu-garapati",
+            "name": "Sahu Garapati"
+          },
+          {
+            "id": "harish-peddi",
+            "name": "Harish Peddi"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "award": {
+          "value": "won",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://en.wikipedia.org/wiki/Bhagavanth_Kesari",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 2,
+          "count": 2,
+          "scoring_count": 2,
+          "classes": [
+            "national_regional",
+            "siima_telugu"
+          ]
+        },
+        "verdict": {
+          "value": "average",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/bhagavanth-kesari",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "ABOVE_AVERAGE"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/4jZMZQ9oYqEAYODAeWUNJL79aIe.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "tmdb": "979669",
+        "tollybo_id": "2860",
+        "tollybo_slug": "bhagavanth-kesari",
+        "wikidata": "Q119625131",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bhagavanth_Kesari"
+      }
+    },
+    {
+      "id": "bhola-shankar-2023",
+      "title": "Bhola Shankar",
+      "year": 2023,
+      "languages": [
+        "Telugu"
+      ],
+      "runtime_minutes": 160,
+      "release_date": "2023-08-11",
+      "credits": {
+        "lead": [
+          {
+            "id": "chiranjeevi",
+            "name": "Chiranjeevi"
+          }
+        ],
+        "colead": [
+          {
+            "id": "tamannaah-bhatia",
+            "name": "Tamannaah Bhatia"
+          }
+        ],
+        "director": [
+          {
+            "id": "meher-ramesh",
+            "name": "Meher Ramesh"
+          }
+        ],
+        "producer": [
+          {
+            "id": "anil-sunkara",
+            "name": "Anil Sunkara"
+          },
+          {
+            "id": "ramabrahmam-sunkara",
+            "name": "Ramabrahmam Sunkara"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "hyped": {
+          "value": true,
+          "confidence": "provisional",
+          "review": "approved",
+          "source_url": "https://www.thequint.com/entertainment/south-cinema/bhola-shankar-chiranjeevi-keerthy-suresh-box-office-collections-flop-failure-why-jailer-competition-rajinikanth",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1
+        },
+        "verdict": {
+          "value": "disaster",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/bhola-shankar",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "DISASTER"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "award": null
+      },
+      "flags": [
+        "hyped_flop"
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/hgip2gbwu19ITJw1KvzLjKHIInt.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "approved",
+      "external_ids": {
+        "tmdb": "864221",
+        "tollybo_id": "2826",
+        "tollybo_slug": "bhola-shankar",
+        "wikidata": "Q109585156",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bhola_Shankar"
+      }
+    },
+    {
+      "id": "dasara-2023",
+      "title": "Dasara",
+      "year": 2023,
+      "languages": [
+        "Telugu"
+      ],
+      "runtime_minutes": 159,
+      "release_date": "2023-03-30",
+      "credits": {
+        "lead": [
+          {
+            "id": "nani",
+            "name": "Nani"
+          }
+        ],
+        "colead": [
+          {
+            "id": "keerthy-suresh",
+            "name": "Keerthy Suresh"
+          }
+        ],
+        "director": [
+          {
+            "id": "srikanth-odela",
+            "name": "Srikanth Odela"
+          }
+        ],
+        "producer": [
+          {
+            "id": "sudhakar-cherukuri",
+            "name": "Sudhakar Cherukuri"
+          },
+          {
+            "id": "ramana-rao-rudrapati",
+            "name": "Ramana Rao Rudrapati"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "verdict": {
+          "value": "hit",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/dasara",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "HIT"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/8O4V2PHkI8mDvxAW3aeZDvRsYZd.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "verified",
+      "review": "approved",
+      "external_ids": {
+        "tmdb": "885184",
+        "tollybo_id": "2757",
+        "tollybo_slug": "dasara",
+        "wikidata": "Q111427163",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dasara"
+      }
+    },
+    {
+      "id": "dunki-2023",
+      "title": "Dunki",
+      "year": 2023,
+      "languages": [
+        "Hindi"
+      ],
+      "runtime_minutes": 161,
+      "release_date": "2023-12-21",
+      "credits": {
+        "lead": [
+          {
+            "id": "shah-rukh-khan",
+            "name": "Shah Rukh Khan"
+          }
+        ],
+        "colead": [
+          {
+            "id": "taapsee-pannu",
+            "name": "Taapsee Pannu"
+          }
+        ],
+        "director": [
+          {
+            "id": "rajkumar-hirani",
+            "name": "Rajkumar Hirani"
+          }
+        ],
+        "producer": [
+          {
+            "id": "gauri-khan",
+            "name": "Gauri Khan"
+          },
+          {
+            "id": "rajkumar-hirani",
+            "name": "Rajkumar Hirani"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "financial_outcome": {
+          "value": "profit",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.sacnilk.com/movie/Dunki_2023",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 2.1771,
+          "multiple_low": 1.9308,
+          "multiple_high": 2.575,
+          "cost": 1200000000.0,
+          "revenue": 2612500000.0,
+          "method": "estimated_distributor_share: India distributor share estimated at 75% of India net (range 70–80%); overseas at 50% of gross (40–70%); ancillary=0; cost from Sacnilk/Wikipedia."
+        },
+        "verdict": {
+          "value": "hit",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.sacnilk.com/movie/Dunki_2023",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "HIT"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/5nnLb9B13iocV0zklMmnXjQxPFB.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "tmdb": "960876",
+        "wikidata": "Q122341144",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dunki"
+      }
+    },
+    {
+      "id": "gadar-2-2023",
+      "title": "Gadar 2",
+      "year": 2023,
+      "languages": [
+        "Hindi"
+      ],
+      "runtime_minutes": 173,
+      "release_date": "2023-08-11",
+      "credits": {
+        "lead": [
+          {
+            "id": "sunny-deol",
+            "name": "Sunny Deol"
+          }
+        ],
+        "colead": [
+          {
+            "id": "ameesha-patel",
+            "name": "Ameesha Patel"
+          }
+        ],
+        "director": [
+          {
+            "id": "anil-sharma",
+            "name": "Anil Sharma"
+          }
+        ],
+        "producer": [
+          {
+            "id": "anil-sharma",
+            "name": "Anil Sharma"
+          },
+          {
+            "id": "kamal-mukut",
+            "name": "Kamal Mukut"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "financial_outcome": {
+          "value": "profit",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.sacnilk.com/movie/Gadar_2_2022",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 5.6937,
+          "multiple_low": 5.2559,
+          "multiple_high": 6.2188,
+          "cost": 750000000.0,
+          "revenue": 4270250000.0,
+          "method": "estimated_distributor_share: India distributor share estimated at 75% of India net (range 70–80%); overseas at 50% of gross (40–70%); ancillary=0; cost from Sacnilk/Wikipedia."
+        },
+        "verdict": {
+          "value": "blockbuster",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.sacnilk.com/movie/Gadar_2_2022",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "ALL TIME BLOCKBUSTER"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/ipoUI3FzVTczg2r8mYxNlE5SsMh.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "tmdb": "885331",
+        "wikidata": "Q113987357",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Gadar_2"
+      }
+    },
+    {
+      "id": "hi-nanna-2023",
+      "title": "Hi Nanna",
+      "year": 2023,
+      "languages": [
+        "Telugu"
+      ],
+      "runtime_minutes": 155,
+      "release_date": "2023-12-07",
+      "credits": {
+        "lead": [
+          {
+            "id": "nani",
+            "name": "Nani"
+          }
+        ],
+        "colead": [
+          {
+            "id": "mrunal-thakur",
+            "name": "Mrunal Thakur"
+          }
+        ],
+        "director": [
+          {
+            "id": "shouryuv",
+            "name": "Shouryuv"
+          }
+        ],
+        "producer": [
+          {
+            "id": "mohan-cherukuri",
+            "name": "Mohan Cherukuri"
+          },
+          {
+            "id": "vijender-reddy-teegala",
+            "name": "Vijender Reddy Teegala"
+          },
+          {
+            "id": "murthy-k-s",
+            "name": "Murthy K. S."
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "verdict": {
+          "value": "hit",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/hi-nanna",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "HIT"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/hhMLtq9m1aK0dpY9Wcq26XeDH2z.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "verified",
+      "review": "approved",
+      "external_ids": {
+        "tmdb": "1068452",
+        "tollybo_id": "2890",
+        "tollybo_slug": "hi-nanna",
+        "wikidata": "Q123169099",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Hi_Nanna"
+      }
+    },
+    {
+      "id": "jawan-2023",
+      "title": "Jawan",
+      "year": 2023,
+      "languages": [
+        "Hindi",
+        "Telugu"
+      ],
+      "runtime_minutes": 169,
+      "release_date": "2023-09-07",
+      "credits": {
+        "lead": [
+          {
+            "id": "shah-rukh-khan",
+            "name": "Shah Rukh Khan"
+          }
+        ],
+        "colead": [
+          {
+            "id": "nayanthara",
+            "name": "Nayanthara"
+          }
+        ],
+        "director": [
+          {
+            "id": "atlee",
+            "name": "Atlee"
+          }
+        ],
+        "producer": [
+          {
+            "id": "gauri-khan",
+            "name": "Gauri Khan"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "award": {
+          "value": "won",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://en.wikipedia.org/wiki/Jawan",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 2,
+          "count": 2,
+          "scoring_count": 1,
+          "classes": [
+            "national_general",
+            "technical"
+          ]
+        },
+        "financial_outcome": {
+          "value": "profit",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.sacnilk.com/movie/Jawan_2023",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 2.2673,
+          "multiple_low": 2.0272,
+          "multiple_high": 2.6407,
+          "cost": 3000000000.0,
+          "revenue": 6801875000.0,
+          "method": "estimated_distributor_share: India distributor share estimated at 75% of India net (range 70–80%); overseas at 50% of gross (40–70%); ancillary=0; cost from Sacnilk/Wikipedia."
+        },
+        "verdict": {
+          "value": "blockbuster",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.sacnilk.com/movie/Jawan_2023",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "ALL TIME BLOCKBUSTER"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null
+      },
+      "flags": [
+        "multi_language"
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "tmdb": "872906",
+        "wikidata": "Q113493289",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jawan"
+      }
+    },
+    {
+      "id": "kushi-2023",
+      "title": "Kushi",
+      "year": 2023,
+      "languages": [
+        "Telugu"
+      ],
+      "runtime_minutes": 165,
+      "release_date": "2023-09-01",
+      "credits": {
+        "lead": [
+          {
+            "id": "vijay-deverakonda",
+            "name": "Vijay Deverakonda"
+          }
+        ],
+        "colead": [
+          {
+            "id": "samantha",
+            "name": "Samantha"
+          }
+        ],
+        "director": [
+          {
+            "id": "shiva-nirvana",
+            "name": "Shiva Nirvana"
+          }
+        ],
+        "producer": [
+          {
+            "id": "naveen-yerneni",
+            "name": "Naveen Yerneni"
+          },
+          {
+            "id": "yalamanchili-ravi-shankar",
+            "name": "Yalamanchili Ravi Shankar"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "verdict": {
+          "value": "average",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/kushi",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "AVERAGE"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/dwdxy7vuCV4pJLD4Sd6cnJSbQTn.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "verified",
+      "review": "approved",
+      "external_ids": {
+        "tmdb": "965489",
+        "tollybo_id": "2834",
+        "tollybo_slug": "kushi",
+        "wikidata": "Q112182731",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kushi"
+      }
+    },
+    {
+      "id": "pathaan-2023",
+      "title": "Pathaan",
+      "year": 2023,
+      "languages": [
+        "Hindi",
+        "Telugu"
+      ],
+      "runtime_minutes": 146,
+      "release_date": "2023-01-25",
+      "credits": {
+        "lead": [
+          {
+            "id": "shah-rukh-khan",
+            "name": "Shah Rukh Khan"
+          }
+        ],
+        "colead": [
+          {
+            "id": "deepika-padukone",
+            "name": "Deepika Padukone"
+          }
+        ],
+        "director": [
+          {
+            "id": "siddharth-anand",
+            "name": "Siddharth Anand"
+          }
+        ],
+        "producer": [
+          {
+            "id": "aditya-chopra",
+            "name": "Aditya Chopra"
+          }
+        ],
+        "cameo": [
+          {
+            "id": "salman-khan",
+            "name": "Salman Khan",
+            "character": "Avinash Singh Rathore",
+            "cameo": true
+          }
+        ]
+      },
+      "tags": {
+        "financial_outcome": {
+          "value": "profit",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.sacnilk.com/movie/Pathan_2022",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 2.4243,
+          "multiple_low": 2.1567,
+          "multiple_high": 2.8509,
+          "cost": 2500000000.0,
+          "revenue": 6060675000.0,
+          "method": "estimated_distributor_share: India distributor share estimated at 75% of India net (range 70–80%); overseas at 50% of gross (40–70%); ancillary=0; cost from Sacnilk/Wikipedia."
+        },
+        "verdict": {
+          "value": "blockbuster",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.sacnilk.com/movie/Pathan_2022",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "ALL TIME BLOCKBUSTER"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [
+        "multi_language",
+        "cameo_credit"
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/m1b9toKYyCujHuLoXB5GSDunO9e.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "tmdb": "864692",
+        "wikidata": "Q114620212",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Pathaan"
+      }
+    },
+    {
+      "id": "rocky-aur-rani-2023",
+      "title": "Rocky Aur Rani Kii Prem Kahaani",
+      "year": 2023,
+      "languages": [
+        "Hindi"
+      ],
+      "runtime_minutes": 168,
+      "release_date": "2023-07-28",
+      "credits": {
+        "lead": [
+          {
+            "id": "ranveer-singh",
+            "name": "Ranveer Singh"
+          }
+        ],
+        "colead": [
+          {
+            "id": "alia-bhatt",
+            "name": "Alia Bhatt"
+          }
+        ],
+        "director": [
+          {
+            "id": "karan-johar",
+            "name": "Karan Johar"
+          }
+        ],
+        "producer": [
+          {
+            "id": "hiroo-yash-johar",
+            "name": "Hiroo Yash Johar"
+          },
+          {
+            "id": "karan-johar",
+            "name": "Karan Johar"
+          },
+          {
+            "id": "apoorva-mehta",
+            "name": "Apoorva Mehta"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "financial_outcome": {
+          "value": "profit",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.sacnilk.com/movie/Rocky_Aur_Rani_Ki_Prem_Kahani_2022",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 1.1921,
+          "multiple_low": 1.044,
+          "multiple_high": 1.4432,
+          "cost": 1700000000.0,
+          "revenue": 2026625000.0,
+          "method": "estimated_distributor_share: India distributor share estimated at 75% of India net (range 70–80%); overseas at 50% of gross (40–70%); ancillary=0; cost from Sacnilk/Wikipedia."
+        },
+        "verdict": {
+          "value": "hit",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.sacnilk.com/movie/Rocky_Aur_Rani_Ki_Prem_Kahani_2022",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "HIT"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "tmdb": "848116",
+        "wikidata": "Q108392396",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Rocky_Aur_Rani"
+      }
+    },
+    {
+      "id": "salaar-2023",
+      "title": "Salaar: Part 1 – Ceasefire",
+      "year": 2023,
+      "languages": [
+        "Telugu",
+        "Hindi"
+      ],
+      "runtime_minutes": 175,
+      "release_date": "2023-12-22",
+      "credits": {
+        "lead": [
+          {
+            "id": "prabhas",
+            "name": "Prabhas"
+          }
+        ],
+        "colead": [
+          {
+            "id": "shruti-haasan",
+            "name": "Shruti Haasan"
+          }
+        ],
+        "director": [
+          {
+            "id": "prashanth-neel",
+            "name": "Prashanth Neel"
+          }
+        ],
+        "producer": [
+          {
+            "id": "vijay-kiragandur",
+            "name": "Vijay Kiragandur"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "award": {
+          "value": "won",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://en.wikipedia.org/wiki/Salaar",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "count": 1,
+          "scoring_count": 0,
+          "classes": [
+            "technical"
+          ]
+        },
+        "verdict": {
+          "value": "hit",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/salaar-part-1-ceasefire",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "HIT"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null
+      },
+      "flags": [
+        "multi_language"
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/nlu9WbcetNFRGXXPWITr30ob7W6.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "tmdb": "770906",
+        "tollybo_id": "2898",
+        "tollybo_slug": "salaar-part-1-ceasefire",
+        "wikidata": "Q106298596",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Salaar"
+      }
+    },
+    {
+      "id": "samajavaragamana-2023",
+      "title": "Samajavaragamana",
+      "year": 2023,
+      "languages": [
+        "Telugu"
+      ],
+      "runtime_minutes": 140,
+      "release_date": "2023-06-29",
+      "credits": {
+        "lead": [
+          {
+            "id": "sree-vishnu",
+            "name": "Sree Vishnu"
+          }
+        ],
+        "colead": [
+          {
+            "id": "reba-monica-john",
+            "name": "Reba Monica John"
+          }
+        ],
+        "director": [
+          {
+            "id": "ram-abbaraju",
+            "name": "Ram Abbaraju"
+          }
+        ],
+        "producer": [
+          {
+            "id": "razesh-danda",
+            "name": "Razesh Danda"
+          },
+          {
+            "id": "anil-sunkara",
+            "name": "Anil Sunkara"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "verdict": {
+          "value": "super_hit",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/samajavaragamana",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "SUPER_HIT"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/g2kmEhPyHIKRoZbKpzhUhjMqeOQ.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "verified",
+      "review": "approved",
+      "external_ids": {
+        "tmdb": "1031218",
+        "tollybo_id": "2804",
+        "tollybo_slug": "samajavaragamana",
+        "wikidata": "Q118246710",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Samajavaragamana"
+      }
+    },
+    {
+      "id": "the-kerala-story-2023",
+      "title": "The Kerala Story",
+      "year": 2023,
+      "languages": [
+        "Hindi"
+      ],
+      "runtime_minutes": 138,
+      "release_date": "2023-05-05",
+      "credits": {
+        "lead": [
+          {
+            "id": "adah-sharma",
+            "name": "Adah Sharma"
+          }
+        ],
+        "colead": [
+          {
+            "id": "siddhi-idnani",
+            "name": "Siddhi Idnani"
+          }
+        ],
+        "director": [
+          {
+            "id": "sudipto-sen",
+            "name": "Sudipto Sen"
+          }
+        ],
+        "producer": [
+          {
+            "id": "vipul-amrutlal-shah",
+            "name": "Vipul Amrutlal Shah"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "award": {
+          "value": "won",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://en.wikipedia.org/wiki/The_Kerala_Story",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 2,
+          "count": 2,
+          "scoring_count": 1,
+          "classes": [
+            "national_general",
+            "technical"
+          ]
+        },
+        "financial_outcome": {
+          "value": "profit",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.sacnilk.com/movie/The_Kerala_Story_2023",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 12.6037,
+          "multiple_low": 11.6945,
+          "multiple_high": 13.6161,
+          "cost": 150000000.0,
+          "revenue": 1890550000.0,
+          "method": "estimated_distributor_share: India distributor share estimated at 75% of India net (range 70–80%); overseas at 50% of gross (40–70%); ancillary=0; cost from Sacnilk/Wikipedia."
+        },
+        "verdict": {
+          "value": "blockbuster",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.sacnilk.com/movie/The_Kerala_Story_2023",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "BLOCKBUSTER"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/2M7wmBSF5svxuTTHY0KiKxE14Io.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "tmdb": "1117411",
+        "wikidata": "Q115805854",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/The_Kerala_Story"
+      }
+    },
+    {
+      "id": "tiger-3-2023",
+      "title": "Tiger 3",
+      "year": 2023,
+      "languages": [
+        "Hindi"
+      ],
+      "runtime_minutes": 156,
+      "release_date": "2023-11-12",
+      "credits": {
+        "lead": [
+          {
+            "id": "salman-khan",
+            "name": "Salman Khan"
+          }
+        ],
+        "colead": [
+          {
+            "id": "katrina-kaif",
+            "name": "Katrina Kaif"
+          }
+        ],
+        "director": [
+          {
+            "id": "maneesh-sharma",
+            "name": "Maneesh Sharma"
+          }
+        ],
+        "producer": [
+          {
+            "id": "aditya-chopra",
+            "name": "Aditya Chopra"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "financial_outcome": {
+          "value": "loss",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://www.sacnilk.com/movie/Tiger_3",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "multiple": 0.9145,
+          "multiple_low": 0.8258,
+          "multiple_high": 1.0446,
+          "cost": 3000000000.0,
+          "revenue": 2743425000.0,
+          "method": "estimated_distributor_share: India distributor share estimated at 75% of India net (range 70–80%); overseas at 50% of gross (40–70%); ancillary=0; cost from Sacnilk/Wikipedia."
+        },
+        "hyped": {
+          "value": true,
+          "confidence": "provisional",
+          "review": "approved",
+          "source_url": "https://www.indiatoday.in/movies/bollywood/story/salman-khan-tiger-3-to-beat-shah-rukh-khan-jawan-pathaan-collection-trade-experts-speak-2456286-2023-10-31",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1
+        },
+        "verdict": {
+          "value": "hit",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.sacnilk.com/movie/Tiger_3",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "HIT"
+        },
+        "critics": null,
+        "cult": null,
+        "award": null
+      },
+      "flags": [
+        "hyped_underperformer",
+        "verdict_finance_conflict"
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/7wgED7Yx9VLcNWSO91VgwicHmMD.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review",
+      "external_ids": {
+        "tmdb": "720557",
+        "wikidata": "Q100704907",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Tiger_3"
+      }
+    },
+    {
+      "id": "virupaksha-2023",
+      "title": "Virupaksha",
+      "year": 2023,
+      "languages": [
+        "Telugu"
+      ],
+      "runtime_minutes": 146,
+      "release_date": "2023-04-21",
+      "credits": {
+        "lead": [
+          {
+            "id": "sai-durgha-tej",
+            "name": "Sai Durgha Tej"
+          }
+        ],
+        "colead": [
+          {
+            "id": "samyuktha",
+            "name": "Samyuktha"
+          }
+        ],
+        "director": [
+          {
+            "id": "karthik-varma-dandu",
+            "name": "Karthik Varma Dandu"
+          }
+        ],
+        "producer": [
+          {
+            "id": "b-v-s-n-prasad",
+            "name": "B. V. S. N. Prasad"
+          },
+          {
+            "id": "sukumar",
+            "name": "Sukumar"
+          }
+        ],
+        "cameo": []
+      },
+      "tags": {
+        "verdict": {
+          "value": "super_hit",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/virupaksha",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "SUPER_HIT"
+        },
+        "financial_outcome": null,
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "flags": [],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/9T2FqYjHxfmwfATMRKJHCyJbOE0.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "verified",
+      "review": "approved",
+      "external_ids": {
+        "tmdb": "1034590",
+        "tollybo_id": "2770",
+        "tollybo_slug": "virupaksha",
+        "wikidata": "Q117842634",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Virupaksha"
+      }
+    }
+  ]
+}

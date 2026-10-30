@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "release_version": "0.1.0",
+  "film": {
+    "id": "swades-2004",
+    "title": "Swades",
+    "year": 2004,
+    "languages": [
+      "Hindi"
+    ],
+    "runtime_minutes": 195,
+    "release_date": "2004-12-17",
+    "credits": {
+      "lead": [
+        {
+          "id": "shah-rukh-khan",
+          "name": "Shah Rukh Khan"
+        }
+      ],
+      "colead": [
+        {
+          "id": "gayatri-joshi",
+          "name": "Gayatri Joshi"
+        }
+      ],
+      "director": [
+        {
+          "id": "ashutosh-gowariker",
+          "name": "Ashutosh Gowariker"
+        }
+      ],
+      "producer": [
+        {
+          "id": "ashutosh-gowariker",
+          "name": "Ashutosh Gowariker"
+        }
+      ],
+      "cameo": []
+    },
+    "tags": {
+      "award": {
+        "value": "won",
+        "confidence": "provisional",
+        "review": "needs_review",
+        "source_url": "https://en.wikipedia.org/wiki/Swades",
+        "retrieved_at": "2026-10-30",
+        "evidence_count": 4,
+        "count": 4,
+        "scoring_count": 1,
+        "classes": [
+          "filmfare_hindi",
+          "technical"
+        ]
+      },
+      "critics": {
+        "value": "acclaimed",
+        "confidence": "provisional",
+        "review": "approved",
+        "source_url": "https://en.wikipedia.org/wiki/Swades",
+        "retrieved_at": "2026-10-30",
+        "evidence_count": 1
+      },
+      "cult": {
+        "value": true,
+        "confidence": "provisional",
+        "review": "approved",
+        "source_url": "https://en.wikipedia.org/wiki/Swades",
+        "retrieved_at": "2026-10-30",
+        "evidence_count": 1
+      },
+      "financial_outcome": {
+        "value": "loss",
+        "confidence": "provisional",
+        "review": "needs_review",
+        "source_url": "https://www.boxofficeindia.com/movie.php?movieid=460",
+        "retrieved_at": "2026-10-30",
+        "evidence_count": 4,
+        "multiple": 0.5842,
+        "multiple_low": 0.5342,
+        "multiple_high": 0.6842,
+        "cost": 220000000.0,
+        "revenue": 128525000.0,
+        "method": "boi_share_plus_overseas_mid: India distributor share (BOI) + overseas gross at 50% (range 40–70%); ancillary=0; cost=BOI budget (assumed incl. P&A). Sensitivity: at 100% overseas the multiple is 0.83; gross ÷ budget is 1.57, which is not the trade multiple."
+      },
+      "verdict": {
+        "value": "flop",
+        "confidence": "verified",
+        "review": "approved",
+        "source_url": "https://www.boxofficeindia.com/movie.php?movieid=460",
+        "retrieved_at": "2026-10-30",
+        "evidence_count": 1,
+        "label": "Flop"
+      },
+      "hyped": null
+    },
+    "flags": [],
+    "poster": {
+      "url": "https://image.tmdb.org/t/p/w500/yUSL24kpHc9Nls4Pohia4shgcIM.jpg",
+      "source": "tmdb",
+      "status": "public_ok",
+      "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+    },
+    "confidence": "provisional",
+    "review": "needs_review",
+    "external_ids": {
+      "boi_movie_id": "460",
+      "tmdb": "15774",
+      "wikidata": "Q1759650",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Swades"
+    }
+  }
+}

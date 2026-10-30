@@ -1,0 +1,361 @@
+{
+  "schema_version": "1.0.0",
+  "release_version": "0.1.0",
+  "films": [
+    {
+      "id": "swades-2004",
+      "title": "Swades",
+      "year": 2004,
+      "languages": [
+        "Hindi"
+      ],
+      "credits": {
+        "lead": [
+          {
+            "id": "shah-rukh-khan",
+            "name": "Shah Rukh Khan"
+          }
+        ],
+        "colead": [
+          {
+            "id": "gayatri-joshi",
+            "name": "Gayatri Joshi"
+          }
+        ],
+        "director": [
+          {
+            "id": "ashutosh-gowariker",
+            "name": "Ashutosh Gowariker"
+          }
+        ],
+        "producer": [
+          {
+            "id": "ashutosh-gowariker",
+            "name": "Ashutosh Gowariker"
+          }
+        ]
+      },
+      "tags": {
+        "verdict": {
+          "value": "flop",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.boxofficeindia.com/movie.php?movieid=460",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "Flop"
+        },
+        "critics": {
+          "value": "acclaimed",
+          "confidence": "provisional",
+          "review": "approved",
+          "source_url": "https://en.wikipedia.org/wiki/Swades",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1
+        },
+        "cult": {
+          "value": true,
+          "confidence": "provisional",
+          "review": "approved",
+          "source_url": "https://en.wikipedia.org/wiki/Swades",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1
+        },
+        "hyped": null,
+        "award": {
+          "value": "won",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://en.wikipedia.org/wiki/Swades",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 4,
+          "count": 4,
+          "scoring_count": 1,
+          "classes": [
+            "filmfare_hindi",
+            "technical"
+          ]
+        }
+      },
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/yUSL24kpHc9Nls4Pohia4shgcIM.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review"
+    },
+    {
+      "id": "pathaan-2023",
+      "title": "Pathaan",
+      "year": 2023,
+      "languages": [
+        "Hindi",
+        "Telugu"
+      ],
+      "credits": {
+        "lead": [
+          {
+            "id": "shah-rukh-khan",
+            "name": "Shah Rukh Khan"
+          }
+        ],
+        "colead": [
+          {
+            "id": "deepika-padukone",
+            "name": "Deepika Padukone"
+          }
+        ],
+        "director": [
+          {
+            "id": "siddharth-anand",
+            "name": "Siddharth Anand"
+          }
+        ],
+        "producer": [
+          {
+            "id": "aditya-chopra",
+            "name": "Aditya Chopra"
+          }
+        ]
+      },
+      "tags": {
+        "verdict": {
+          "value": "blockbuster",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://www.sacnilk.com/movie/Pathan_2022",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "ALL TIME BLOCKBUSTER"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": null
+      },
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/m1b9toKYyCujHuLoXB5GSDunO9e.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review"
+    },
+    {
+      "id": "ninne-pelladatha-1996",
+      "title": "Ninne Pelladatha",
+      "year": 1996,
+      "languages": [
+        "Telugu"
+      ],
+      "credits": {
+        "lead": [
+          {
+            "id": "nagarjuna",
+            "name": "Nagarjuna"
+          }
+        ],
+        "colead": [
+          {
+            "id": "tabu",
+            "name": "Tabu"
+          }
+        ],
+        "director": [
+          {
+            "id": "krishna-vamsi",
+            "name": "Krishna Vamsi"
+          }
+        ],
+        "producer": [
+          {
+            "id": "nagarjuna",
+            "name": "Nagarjuna"
+          }
+        ]
+      },
+      "tags": {
+        "verdict": {
+          "value": "blockbuster",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/ninne-pelladatha",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "BLOCKBUSTER"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": {
+          "value": "won",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://en.wikipedia.org/wiki/Ninne_Pelladatha",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 5,
+          "count": 5,
+          "scoring_count": 2,
+          "classes": [
+            "filmfare_south",
+            "nandi",
+            "national_regional"
+          ]
+        }
+      },
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/vyqjVNfmpcqSmaR6twCJ8b6wu7i.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review"
+    },
+    {
+      "id": "bhola-shankar-2023",
+      "title": "Bhola Shankar",
+      "year": 2023,
+      "languages": [
+        "Telugu"
+      ],
+      "credits": {
+        "lead": [
+          {
+            "id": "chiranjeevi",
+            "name": "Chiranjeevi"
+          }
+        ],
+        "colead": [
+          {
+            "id": "tamannaah-bhatia",
+            "name": "Tamannaah Bhatia"
+          }
+        ],
+        "director": [
+          {
+            "id": "meher-ramesh",
+            "name": "Meher Ramesh"
+          }
+        ],
+        "producer": [
+          {
+            "id": "anil-sunkara",
+            "name": "Anil Sunkara"
+          },
+          {
+            "id": "ramabrahmam-sunkara",
+            "name": "Ramabrahmam Sunkara"
+          }
+        ]
+      },
+      "tags": {
+        "verdict": {
+          "value": "disaster",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/bhola-shankar",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "DISASTER"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": {
+          "value": true,
+          "confidence": "provisional",
+          "review": "approved",
+          "source_url": "https://www.thequint.com/entertainment/south-cinema/bhola-shankar-chiranjeevi-keerthy-suresh-box-office-collections-flop-failure-why-jailer-competition-rajinikanth",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1
+        },
+        "award": null
+      },
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/hgip2gbwu19ITJw1KvzLjKHIInt.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "approved"
+    },
+    {
+      "id": "prema-desam-1996",
+      "title": "Prema Desam",
+      "year": 1996,
+      "languages": [
+        "Telugu"
+      ],
+      "credits": {
+        "lead": [
+          {
+            "id": "vineeth",
+            "name": "Vineeth"
+          },
+          {
+            "id": "abbas",
+            "name": "Abbas"
+          }
+        ],
+        "colead": [
+          {
+            "id": "tabu",
+            "name": "Tabu"
+          }
+        ],
+        "director": [
+          {
+            "id": "kathir",
+            "name": "Kathir"
+          }
+        ],
+        "producer": [
+          {
+            "id": "k-t-kunjumon",
+            "name": "K. T. Kunjumon"
+          }
+        ]
+      },
+      "tags": {
+        "verdict": {
+          "value": "average",
+          "confidence": "verified",
+          "review": "approved",
+          "source_url": "https://tollybo.com/movies/kadhal-desam",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 1,
+          "label": "AVERAGE"
+        },
+        "critics": null,
+        "cult": null,
+        "hyped": null,
+        "award": {
+          "value": "won",
+          "confidence": "provisional",
+          "review": "needs_review",
+          "source_url": "https://en.wikipedia.org/wiki/Kadhal_Desam",
+          "retrieved_at": "2026-10-30",
+          "evidence_count": 2,
+          "count": 2,
+          "scoring_count": 0,
+          "classes": [
+            "filmfare_south",
+            "optional"
+          ]
+        }
+      },
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/w500/iS9OGIPUchnJhivkuRygeO6V1S1.jpg",
+        "source": "tmdb",
+        "status": "public_ok",
+        "attribution": "This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB."
+      },
+      "confidence": "provisional",
+      "review": "needs_review"
+    }
+  ]
+}
