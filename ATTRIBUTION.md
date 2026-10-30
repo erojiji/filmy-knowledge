@@ -1,24 +1,12 @@
 # Attribution
 
-## TMDB
-
 This product uses TMDB and the TMDB APIs but is not endorsed, certified, or
 otherwise approved by TMDB.
 
-Poster images are linked from `image.tmdb.org` and are not mirrored in this
-repository. Poster metadata is refreshed within TMDB's six-month limit.
+Facts and award references are derived from Wikipedia (CC BY-SA 4.0) and
+Wikidata (CC0 1.0). Trade verdicts and box-office facts are derived from trade
+sources; the underlying terms apply. No trade quotes or raw snapshots are
+published here.
 
-## Wikipedia
-
-Facts and award references are derived from Wikipedia, which is licensed under
-CC BY-SA 4.0. Attribution: Wikipedia contributors.
-
-## Wikidata
-
-Identifiers and instance-of checks are derived from Wikidata, which is CC0 1.0.
-
-## Trade sources
-
-Verdicts and box-office facts are derived from Box Office India, Sacnilk,
-TollyBO and other trade sources. Source URLs are carried in the public release.
-No trade quotes or raw snapshots are published here.
+Poster images are served from `image.tmdb.org` with attribution; they are not
+mirrored in this repository.
